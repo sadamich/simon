@@ -12,3 +12,8 @@ def sumOfN3(n):
    return (n*(n+1))/2
 
 print(sumOfN3(10))
+
+
+
+### source: Brad Miller and David Ranum, Luther College              ###
+### Problem Solving with Algorithms and Data Structures using Python ###
